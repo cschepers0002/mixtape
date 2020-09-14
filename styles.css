@@ -1,0 +1,35 @@
+<style>
+body{
+  background-color: #e0ebeb;
+}
+img{
+  max-width:100%;
+}
+
+#heading{
+  text-align: left;
+  color:  #550080;
+  font-family: Georgia;
+}
+#sub{
+  text-align: left;
+  color:#003399;
+  font-family: Georgia;
+}
+#Sub3{
+  text-align: left;
+  color:#550080;
+  font-family: Georgia;
+}
+
+#title{
+  text-align: left;
+  color:#003399;
+  font-family: Georgia;
+}
+#list{
+  text-align: left;
+  font-family: Georgia;
+  color: #660099;
+}
+</style>
