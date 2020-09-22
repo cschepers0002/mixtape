@@ -1,6 +1,6 @@
 
 body{
-  background-color: #e0ebeb;
+  background-color: #f2e6d9;
 }
 img{
   max-width:100%;
@@ -8,13 +8,36 @@ img{
 
 #heading{
   text-align: left;
-  color:  #550080;
-  font-family: Georgia;
+  color: #cc2900 ;
+  font-family: 'Sedgwick Ave Display', cursive;
+  margin: auto;
+  font-size: 3em;
+
 }
+
+div{
+  width:100%;
+  margin:auto;
+}
+
+
+#bee {
+  max-width: 40%;
+  margin: 15px auto 15px auto;
+
+}
+
+#bee2{
+  max-width: 40%;
+  margin: 15px auto 15px auto;
+}
+
 #sub{
   text-align: left;
-  color:#003399;
+  color:#ff661a;
   font-family: Georgia;
+  font-size: 1.7em;
+
 }
 #Sub3{
   text-align: left;
@@ -24,11 +47,64 @@ img{
 
 #title{
   text-align: left;
-  color:#003399;
+  color:#ff661a;
   font-family: Georgia;
 }
 #list{
   text-align: left;
   font-family: Georgia;
-  color: #660099;
+  color: #006666;
+}
+
+#dance{
+  padding: 20px;
+
+}
+
+#radio{
+  padding: 20px;
+}
+
+#blue{
+  padding: 20px;
+}
+
+#go {
+  padding: 20px;
+}
+
+#kiss {
+  padding: 20px;
+}
+
+#koko {
+  padding: 20px;
+
+}
+
+#island{
+  padding:20px;
+}
+
+#dancing{
+  padding:20px;
+}
+
+#tpwk{
+  padding: 20px;
+}
+
+#take{
+  padding: 20px;
+}
+hr {
+  border: 3px solid #dfbf9f;
+  width: 100%;
+}
+
+#footer{
+  font-size: .5em;
+  text-align: center;
+  margin-top: 2em;
+  font-family: Georgia;
 }
